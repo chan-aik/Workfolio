@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! Here, you'll find projects that showcase my skil
 ## Featured Projects  
 Here are some of my top projects:  
 
-### **1️⃣ [Process Optimization for Client Onboarding (BNY)]()**  
+### **1️⃣ [Process Optimization for Client Onboarding (BNY)](https://github.com/chan-aik/Workfolio/blob/main/Process%20Optimization%20for%20Client%20Onboarding%20(BNY).md)**  
 - **Objective:** Streamline onboarding workflows to enhance efficiency, reduce processing time, and minimize frequently missed steps.
 - **Action:** Implemented automation and restructured processes, reducing account opening time by 60% and ensuring a 95% adherence to all required steps.
 - **Result:** Achieved faster client onboarding with no missed process steps, improving customer experience and reducing backlogs.
