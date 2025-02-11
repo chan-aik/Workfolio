@@ -13,24 +13,24 @@ This project focused on **streamlining market's client onboarding processes** at
 ---
 
 ## Actions Taken  
-**Implemented automation** to reduce manual intervention and eliminate inefficiencies  
-**Enhanced tracking mechanisms** to monitor progress and ensure step completion  
-**Developed a VBA macro** that runs daily to track emails and who responds to them
+- **Implemented automation** to reduce manual intervention and eliminate inefficiencies  
+- **Enhanced tracking mechanisms** to monitor progress and ensure step completion  
+- **Developed a VBA macro** that runs daily to track emails and who responds to them
 
 ---
 
 ## Key Results  
-**Reduced account opening time by 60%**  
-**Ensured 95% adherence** to all required process steps  
-**Eliminated missed steps**, improving accuracy and compliance  
-**Enhanced customer experience** by accelerating onboarding and reducing backlogs  
+- **Reduced account opening time by 60%**  
+- **Ensured 95% adherence** to all required process steps  
+- **Eliminated missed steps**, improving accuracy and compliance  
+- **Enhanced customer experience** by accelerating onboarding and reducing backlogs  
 
 ---
 
 ## Technologies & Tools  
-**Automation Tools**: [Microsoft Excel VBA]  
-**Process Management**: [Risk-Based Optimization, Business Process Management (BPM), Robotic Process Automation (RPA)]  
-**Data Tracking**: [Microsoft Excel, Microsoft Outlook]  
+- **Automation Tools**: [Microsoft Excel VBA]  
+- **Process Management**: [Risk-Based Optimization, Business Process Management (BPM), Robotic Process Automation (RPA)]  
+- **Data Tracking**: [Microsoft Excel VBA, Microsoft Outlook]  
 
 ---
 
