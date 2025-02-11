@@ -23,12 +23,12 @@ Here are some of my top projects:
 - **Action:** Implemented automation and restructured processes, reducing account opening time by 60% and ensuring a 95% adherence to all required steps.
 - **Result:** Achieved faster client onboarding with no missed process steps, improving customer experience and reducing backlogs.
 
-### **2️⃣ [Creating Macros and Collecting Data](https://github.com/yourname/project-repo)**  
+### **2️⃣ [Creating Macros and Collecting Data]([https://github.com/yourname/project-repo](https://github.com/chan-aik/Workfolio/blob/main/Creating%20Macros%20and%20Collecting%20Data%20(BNY).md))**  
 - **Objective:** Automate data collection and processing to enhance efficiency and accuracy.
 - **Action:** Developed Excel macros and optimized data collection methods, ensuring streamlined reporting and enhanced data integrity.
 - **Result:** Improved data processing efficiency by 78%, reducing manual errors and accelerating reporting timelines.
 
-### **3️⃣ [Integration of New Account Opening System (BNY)](https://github.com/yourname/project-repo)**  
+### **3️⃣ [Integration of New Account Opening System (BNY)]([https://github.com/yourname/project-repo](https://github.com/chan-aik/Workfolio/blob/main/Integration%20of%20New%20Account%20Opening%20System%20(BNY).md))**  
 - **Objective:** Ensure seamless transition and implementation of a new account management system.
 - **Action:** Led testing, training and integration efforts, aligning processes with compliance and operational needs.
 - **Result:** Improved system adoption rates and reduced manual processing errors.
