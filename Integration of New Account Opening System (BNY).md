@@ -27,7 +27,7 @@ This project focused on ensuring a **seamless transition** to a new **account ma
 
 ---
 
-## 🛠Tools & Technologies  
+## Tools & Technologies  
 - **Account Management System** – [Global Orchestra Onboarding]  
 - **Testing Tools** – [Nexen]  
 - **Training Platforms** – [Nexen]  
@@ -35,10 +35,10 @@ This project focused on ensuring a **seamless transition** to a new **account ma
 
 ---
 
-## 📈 Impact & Learnings  
+## Impact & Learnings  
 This project demonstrated the **importance of structured system integration**, user training, and compliance alignment. By implementing a **strategic rollout plan**, we ensured **high adoption rates** while mitigating risks associated with system transitions.  
 
-🚀 **Next Steps**: Further optimize workflows and explore automation for post-implementation enhancements.  
+**Next Steps**: Further optimize workflows and explore automation for post-implementation enhancements.  
 
 ---
 
